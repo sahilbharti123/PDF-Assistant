@@ -1,6 +1,6 @@
 # PDF Assistant Chatbot
 
-This is a chatbot assistant that can read PDFs and answer questions about their content. It was created as a project for my resume.
+This is a chatbot assistant that can read PDFs and answer questions about their content.
 
 ## Overview
 
